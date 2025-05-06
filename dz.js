@@ -1,8 +1,8 @@
 const user = {
-  name: "Kate",
+  name: "Emily",
   age: 20,
   city: "Kyiv",
-  email: "kate@example.com",
+  email: "emily@example.com",
   getInfo: function () {
     return `Ім'я користувача: ${this.name}, Вік: ${this.age}, Місто проживання: ${this.city}, Електронна пошта: ${this.email}  `;
   },
